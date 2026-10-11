@@ -1,0 +1,6 @@
+{
+  "name": "Braille Vision",
+  "description": "AI audio reader and camera assistant for Braille books and documents, converting tactile text to speech with camera guidance and voice Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
